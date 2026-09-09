@@ -1,0 +1,54 @@
+name: Bug report
+description: Report a reproducible product defect using synthetic or redacted material only.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Do not attach research recordings, transcripts, databases, participant names, or unredacted screenshots."
+  - type: input
+    id: version
+    attributes:
+      label: Product version
+      placeholder: 1.2.0
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Workflow stage
+      options: [Setup or launch, Import, Processing, Human verification, Export, Other]
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Synthetic reproduction steps
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: macOS version, Apple chip, Python, Node, FFmpeg
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I removed participant data and identifying local paths.
+          required: true

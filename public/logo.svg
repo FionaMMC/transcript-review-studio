@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>Transcript Review Studio</title>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="#0964D8"/>
+  <path d="M18 17h28M18 25h17M18 47h12" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <path d="m18 33 10 6-10 6V33Z" fill="white"/>
+  <path d="m35 40 5 5 10-12" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

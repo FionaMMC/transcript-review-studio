@@ -1,0 +1,15 @@
+Before you code an interview or quote a participant, you need to check what was actually said. Transcript Review Studio helps you do that on your own computer.
+
+It uses local speech-to-text to generate multiple candidate transcripts. It compares their wording and uses model confidence scores to highlight passages that may need a closer listen, helping you focus your review.
+
+But you can review any part of the recording, including moments the AI hasn't flagged.
+
+Watch the video, replay a sentence, compare the versions, and edit as you listen. Correct the words, label the speaker, or leave an uncertain passage for later.
+
+When you're ready for qualitative analysis, export a Word transcript, an NVivo-style table, or a spreadsheet.
+
+Keep a before-and-after record of your corrections, so colleagues can see what changed.
+
+Speech recognition runs locally. The app does not upload your recordings or transcripts to cloud services.
+
+Try the included sample, follow the walkthrough, and bring in your next interview.

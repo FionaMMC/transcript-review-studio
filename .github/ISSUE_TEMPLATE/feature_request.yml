@@ -1,0 +1,32 @@
+name: Feature request
+description: Propose a user outcome and explain its research-data implications.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Researcher problem
+      description: Describe the job and failure point, not only the requested control.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow impact
+      description: Which import, review, or export step changes?
+    validations:
+      required: true
+  - type: textarea
+    id: privacy
+    attributes:
+      label: Privacy and data impact
+      description: Note new files, external services, identity risks, permissions, or sharing behavior.
+    validations:
+      required: true

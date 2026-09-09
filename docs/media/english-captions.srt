@@ -1,0 +1,87 @@
+1
+00:00:00,400 --> 00:00:03,337
+Before you code an interview or quote a participant, you need to
+
+2
+00:00:03,337 --> 00:00:04,753
+check what was actually said.
+
+3
+00:00:05,137 --> 00:00:09,119
+Transcript Review Studio helps you do that on your own computer.
+
+4
+00:00:09,667 --> 00:00:14,159
+It uses local speech-to-text to generate multiple candidate transcripts.
+
+5
+00:00:14,450 --> 00:00:18,932
+It compares their wording and uses model confidence scores to highlight
+
+6
+00:00:18,932 --> 00:00:22,659
+passages that may need a closer listen, helping you focus your
+
+7
+00:00:22,659 --> 00:00:23,633
+review.
+
+8
+00:00:24,167 --> 00:00:26,802
+But you can review any part of the recording, including moments
+
+9
+00:00:26,802 --> 00:00:28,381
+the AI hasn't flagged.
+
+10
+00:00:28,933 --> 00:00:32,776
+Watch the video, replay a sentence, compare the versions, and edit
+
+11
+00:00:32,776 --> 00:00:33,623
+as you listen.
+
+12
+00:00:34,007 --> 00:00:38,105
+Correct the words, label the speaker, or leave an uncertain passage
+
+13
+00:00:38,105 --> 00:00:39,091
+for later.
+
+14
+00:00:39,633 --> 00:00:43,662
+When you're ready for qualitative analysis, export a Word transcript,
+
+15
+00:00:43,662 --> 00:00:46,587
+an NVivo-style table, or a spreadsheet.
+
+16
+00:00:47,133 --> 00:00:50,035
+Keep a before-and-after record of your corrections, so colleagues
+
+17
+00:00:50,035 --> 00:00:51,440
+can see what changed.
+
+18
+00:00:52,000 --> 00:00:53,950
+Speech recognition runs locally.
+
+19
+00:00:54,171 --> 00:00:56,911
+The app does not upload your recordings or transcripts to cloud
+
+20
+00:00:56,911 --> 00:00:57,979
+services.
+
+21
+00:00:58,533 --> 00:01:01,552
+Try the included sample, follow the walkthrough, and bring in your
+
+22
+00:01:01,552 --> 00:01:02,700
+next interview.
