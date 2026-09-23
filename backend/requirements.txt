@@ -3,4 +3,4 @@ mlx-whisper==0.4.3; platform_system == "Darwin" and platform_machine == "arm64"
 openpyxl==3.1.5
 python-docx==1.2.0
 python-multipart==0.0.32
-uvicorn[standard]==0.52.4
+uvicorn[standard]==0.53.0
